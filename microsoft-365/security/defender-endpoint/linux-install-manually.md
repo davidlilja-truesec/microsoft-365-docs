@@ -143,13 +143,13 @@ In order to preview new features and provide early feedback, it is recommended t
 - Install `curl` if it isn't installed yet:
 
     ```bash
-    sudo apt-get install curl
+    sudo apt install curl
     ```
 
 - Install `libplist-utils` if it isn't installed yet:
 
     ```bash
-    sudo apt-get install libplist-utils
+    sudo apt install libplist-utils
     ```
 
     > [!NOTE]
@@ -185,13 +185,13 @@ In order to preview new features and provide early feedback, it is recommended t
 - Install the `gpg` package if not already installed:
 
     ```bash
-    sudo apt-get install gpg
+    sudo apt install gpg
     ```
 
   If `gpg` is not available, then install `gnupg`.
 
     ```bash
-    sudo apt-get install gnupg
+    sudo apt install gnupg
     ```
 
 - Install the Microsoft GPG public key:
@@ -203,13 +203,13 @@ In order to preview new features and provide early feedback, it is recommended t
 - Install the HTTPS driver if not already installed:
 
     ```bash
-    sudo apt-get install apt-transport-https
+    sudo apt install apt-transport-https
     ```
 
 - Update the repository metadata:
 
     ```bash
-    sudo apt-get update
+    sudo apt update
     ```
 
 ## Application installation
@@ -269,7 +269,7 @@ In order to preview new features and provide early feedback, it is recommended t
 - Ubuntu and Debian system:
 
     ```bash
-    sudo apt-get install mdatp
+    sudo apt install mdatp
     ```
 
     > [!NOTE]
